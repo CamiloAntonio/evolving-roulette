@@ -1,0 +1,30 @@
+best [
+  { bet: 0, wager: 0.0625, threshold: 1.28 },
+  { bet: 'low', wager: 1, threshold: 0.08 },
+  { bet: 35, wager: 0.03125, threshold: 2.56 }
+]
+
+
+best [
+  { bet: 'green', wager: 0.125, threshold: 2.56 },
+  { bet: 'green', wager: 0.03125, threshold: 5.12 },
+  { bet: 'odd', wager: 0.25, threshold: 0.08 }
+]
+
+best [
+  { bet: 11, wager: 0.03125, threshold: 2.56 },
+  { bet: 'green', wager: 0.0625, threshold: 1.28 },
+  { bet: 'red', wager: 1, threshold: 0.04 }
+
+
+best [
+  { bet: 21, wager: 0.125, threshold: 1.28 },
+  { bet: 32, wager: 0.0625, threshold: 1.28 },
+  { bet: 3, wager: 0.03125, threshold: 1.28 }
+]
+
+best [
+  { bet: 'odd', wager: 0.0625, threshold: 20.48 },
+  { bet: 'black', wager: 0.25, threshold: 0.16 },
+  { bet: 'even', wager: 0.015625, threshold: 0.64 } 
+]
